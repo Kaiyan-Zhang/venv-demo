@@ -17,3 +17,9 @@ which pip3
 pip install test0
 echo 'import test0' > main.py
 python main.py
+
+cd ..
+which python
+which python3
+which pip
+which pip3
