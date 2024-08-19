@@ -23,3 +23,4 @@ which python
 which python3
 which pip
 which pip3
+python ./venv/main.py
